@@ -1,7 +1,7 @@
 # ImageRecognitionUseCases
 ImageRecognitionModelTest
 Testing Dlib and Other models to test on sample images.... Please refer Python files for different test sets.
-Basics are mentioned over hear....detailed test cases are elaborated in individual notebook and Python script files.
+Basics are mentioned over here with Google Cloud using tesnsor flow environment....detailed test cases are elaborated in individual notebook and Python script files.
 
 Face Recognition steps - 
 
